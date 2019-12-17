@@ -160,43 +160,43 @@ var biology =
 
 var history =
 [
-  ["What is the oldest surviving system of laws?", "Code of Hammurabi", "Hebrew Torah", "Shabaka Stone", "Rosetta Stone"]
+  ["What is the oldest surviving system of laws?", "Code of Hammurabi", "Hebrew Torah", "Shabaka Stone", "Rosetta Stone"],
 
-  ["What was the last battle in the Napoleonic Wars", "Battle of Wavre", "Battle of the Nile", "Battle of Trafalgar", "Battle of Waterloo"]
+  ["What was the last battle in the Napoleonic Wars", "Battle of Wavre", "Battle of the Nile", "Battle of Trafalgar", "Battle of Waterloo"],
 
-  ["Who was the first democratically elected President of Russia?", "Boris Yeltsin", "Vladimier Putin", "Mikhael Gorbachev", "Nikita Krushchev"]
+  ["Who was the first democratically elected President of Russia?", "Boris Yeltsin", "Vladimier Putin", "Mikhael Gorbachev", "Nikita Krushchev"],
 
-  ["What is the correct chronological order, from earliest to latest, of the development of the following religions?", "Buddhism, Christianity, Islam", "Islam, Buddheism, Christianity", "Christianity, Islam, Buddheism", "Christianity, Buddheism, Islam"]
+  ["What is the correct chronological order, from earliest to latest, of the development of the following religions?", "Buddhism, Christianity, Islam", "Islam, Buddheism, Christianity", "Christianity, Islam, Buddheism", "Christianity, Buddheism, Islam"],
 
-  ["Which of the following was the first patented", "Rubberband", "Chewing Gum", "Cash Register", "Dishwasher"]
+  ["Which of the following was the first patented", "Rubberband", "Chewing Gum", "Cash Register", "Dishwasher"],
 
-  ["What city first reached a population of one million?", "Rome", "Beijing", "London", "New York"]
+  ["What city first reached a population of one million?", "Rome", "Beijing", "London", "New York"],
 
-  ["How long did the Hundred Years' War last", "one hundred years", "one hundred and sixteen years", "ninetynine years", "one hundred and one years"]
+  ["How long did the Hundred Years' War last", "one hundred years", "one hundred and sixteen years", "ninetynine years", "one hundred and one years"],
 
-  ["What famous general was once attacked by rabbits?", "Napoleon", "Alexander the Great", "Julius Caesar", "Genghis Khan"]
+  ["What famous general was once attacked by rabbits?", "Napoleon", "Alexander the Great", "Julius Caesar", "Genghis Khan"],
 
-  ["Which of the following did not have a written language?", "Incan Empire", "Tang Dynasty", "Roman Empire", "Aztec Empire"]
+  ["Which of the following did not have a written language?", "Incan Empire", "Tang Dynasty", "Roman Empire", "Aztec Empire"],
 
-  ["What American general famously promised: 'I shall return'?", "Douglas Macarthur", "George Patton", "George Washington", "John J. Pershing"]
+  ["What American general famously promised: 'I shall return'?", "Douglas Macarthur", "George Patton", "George Washington", "John J. Pershing"],
 
-  ["Which founding father is known for his large signature on the United States Declaration of Independence?", "John Hancock", "Benjamin Franklin", "Samuel Adams", "William Whipple"]
+  ["Which founding father is known for his large signature on the United States Declaration of Independence?", "John Hancock", "Benjamin Franklin", "Samuel Adams", "William Whipple"],
 
-  ["How many passengers were aboard the Mayflower when it set sail for the New World?", "One hundred and two", "One hundred and ten", "Ninety-eight", "One hundred and five"]
+  ["How many passengers were aboard the Mayflower when it set sail for the New World?", "One hundred and two", "One hundred and ten", "Ninety-eight", "One hundred and five"],
 
-  ["What war lasted approximately thirty-eight minutes?", "Anglo-Zanzibar War", "War of 1812", "Falklands War", "Serbo-Bulgarian War"]
+  ["What war lasted approximately thirty-eight minutes?", "Anglo-Zanzibar War", "War of 1812", "Falklands War", "Serbo-Bulgarian War"],
 
-  ["Who invented Arabic numbers", "Indians", "Arabians", "Greeks", "Romans"]
+  ["Who invented Arabic numbers", "Indians", "Arabians", "Greeks", "Romans"],
 
-  ["Where did the Battle of Bunker Hill take place?", "Breed's Hill", "Bredon Hill", "Bunker Hill", "Black Hill"]
+  ["Where did the Battle of Bunker Hill take place?", "Breed's Hill", "Bredon Hill", "Bunker Hill", "Black Hill"],
 
   ["Who was the first wife of King Henry VIII?", "Catherine of Aragon", "Catherine Howard", "Anne Boleyn", "Jane Seymour"]
 
-  ["In which ocean was the Battle of Midway fought?", "Pacific Ocean", "Indian Ocean", "Southern Ocean", "Atlantic Ocean"]
+  ["In which ocean was the Battle of Midway fought?", "Pacific Ocean", "Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
 
-  ["What did ancient Egyptians use as pillows?", "Stones", "Animals Pelts", "Bundles of wheat", "Bags of Water"]
+  ["What did ancient Egyptians use as pillows?", "Stones", "Animals Pelts", "Bundles of wheat", "Bags of Water"],
 
-  ["What international body was established in 1945, immediately following World War II?", "United Nations", "League of Nations", "World Bank", "International Monetary Fund"]
+  ["What international body was established in 1945, immediately following World War II?", "United Nations", "League of Nations", "World Bank", "International Monetary Fund"],
 
   ["Which Soviet satellite was the first to be launched into space in 1957?", "Sputnik", "Venera", "Mir", "Vostok"]
 ]
