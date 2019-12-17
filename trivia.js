@@ -128,7 +128,7 @@ var biology =
 
   ["Which of the following has the longest lifespan?", "Oyster", "Indian Elephant", "Chimpanzee", "Termite"],
 
-  ["A single piece of coiled DNA is called?", "Chromosome", "Cell", "Mitochondria", "Vacuole"],
+  ["A single piece of coiled DNA is called?", "Chromosome", "Vacuole", "Mitochondria", "Cell"],
 
   ["Mumps is caused by ____", "Viruses", "Bacteria", "Genetics", "Toxins"],
 
@@ -218,7 +218,7 @@ function setup()
     text(arrow[i] + " " + catergories[i], choiceX,(choiceY*i)+60);
   }
 
-  shuffle(answerList, true);
+
   //shuffle(questionList, true);
 
 }
@@ -240,7 +240,9 @@ function draw()
     for (var i = 0; i < videogames.length; i++)
     {
       questionList = videogames;
+      shuffle(questionList, true);
       answer = questionList[qCount][1];
+      shuffle(answerList, true);
       background(0);
       menu = 2;
     }
@@ -250,7 +252,9 @@ function draw()
       for (var i = 0; i < geography.length; i++)
       {
         questionList = geography;
+        shuffle(questionList, true);
         answer = questionList[qCount][1];
+        shuffle(answerList, true);
         background(0);
         menu = 2;
       }
@@ -260,6 +264,9 @@ function draw()
       for (var i = 0; i < biology.length; i++)
       {
         questionList = biology;
+        shuffle(questionList, true);
+        answer = questionList[qCount][1];
+        shuffle(answerList, true);
         background(0);
         menu = 2;
       }
@@ -269,6 +276,9 @@ function draw()
       for (var i = 0; i < history.length; i++)
       {
         questionList = history;
+        shuffle(questionList, true);
+        answer = questionList[qCount][1];
+        shuffle(answerList, true);
         background(0);
         menu = 2;
       }
@@ -297,6 +307,7 @@ function keyPressed()
     if (keyCode === UP_ARROW && menu === 0)
     {
       category = 0;
+      shuffle(answerList, true); //question randomizer
       menu = 1;
     }
     else if (keyCode === UP_ARROW && next === false)
@@ -357,6 +368,7 @@ function keyPressed()
   {
     background(0);
     qCount++;
+    shuffle(answerList, true);
     next = false;
     fill(0,255,0);
     text("Correct: " + correct,correctX,correctY);
@@ -376,7 +388,7 @@ function keyPressed()
       text("Score: " + correct + " / " + questionList.length, 160,190);
       fill(255);
     }
-    shuffle(answerList, true); //question randomizer
+
   }
 
   if (next === true && answer === input && spamPrevent === false)
