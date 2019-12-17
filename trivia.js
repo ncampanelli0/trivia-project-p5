@@ -128,9 +128,9 @@ var biology =
 
   ["Which of the following has the longest lifespan?", "Oyster", "Indian Elephant", "Chimpanzee", "Termite"],
 
-  ["A single piece of coiled DNA is called?", "Chromosome", "", "", ""],
+  ["A single piece of coiled DNA is called?", "Chromosome", "Cell", "Mitochondria", "Vacuole"],
 
-  ["Mumps is caused by ____", "Viruses", "Bacteria", "Genetics", ""],
+  ["Mumps is caused by ____", "Viruses", "Bacteria", "Genetics", "Toxins"],
 
   ["What scientist introduced the concept of natural selection?", "Charles Darwin", "Issac Newton", "Sir Elton John", "Bill Nye the Science Guy"],
 
