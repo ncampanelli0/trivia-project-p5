@@ -204,6 +204,7 @@ var history =
 
 function setup()
 {
+  fill(255);
   createCanvas(1920,1200);
   background(0);
   textSize(25);
@@ -282,6 +283,7 @@ function draw()
         background(0);
         menu = 2;
       }
+
   }
   //question display
   if (flag === true)
